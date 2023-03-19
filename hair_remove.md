@@ -13,10 +13,12 @@ https://docs.google.com/spreadsheets/d/1WfM3pCiYWjuO-t3vnejQS7bBbgnbbe4TDgplsIRt
 
 - Compass tattoo, 16 Ipolite Khvichia St, Tbilisi
 
-первый вариант, более слабый
+первый вариант, более слабый:
+
 ![анестезия](./pics/anestesia_1.jpg)
 
-чуть более сильный
+чуть более сильный:
+
 ![анестезия](./pics/anestesia_2.jpg)
 
 !!! перед использованием обязательно сделать тест на маленьком участке кожи!!!

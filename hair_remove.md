@@ -1,6 +1,6 @@
 # electrolysis (electro epilation)
 
-Где найти электро эпиялцию в Тбилиси
+Где найти электро эпиляцию в Тбилиси
 list of place where you can make it in Tbilisi
 
 https://docs.google.com/spreadsheets/d/1WfM3pCiYWjuO-t3vnejQS7bBbgnbbe4TDgplsIRtQhI/edit?usp=sharing

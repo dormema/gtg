@@ -30,6 +30,30 @@
 лекарства не известно, контактных данных покупателей продавцы
 естественно не разглашают)
 
+# Androcur/Андрокур
+
+Есть два пути оффлайн и онлайн. Оффлайн дороже.
+
+## Оффлайн
+
+В Тбилиси есть пара аптект где он плюс минус стабильно есть, дозировки и цены уточняйте по факту
+
+1. Name: "He first and two"  
+    Adress: Lock Tbilisi Vake Vaki Park Tamarashvili St. 1 across the street from Vaki Park. Vake-Saburtalo Road Rientiri Beginning in Firni: Green "Afiaki" 2 202922;
+   Working hours: 24/7;
+   Phone: 032 2 222922;
+   Говорят по русски, вроде можно заказать что то чего нет в наличии сейчас.
+   ![Аптека](./pics/pharmacy.jpg)
+2. Name: "Emji" LLC: Tbilisi station, Surami st. 13 Address: intersection of Tamar Mefi and Surami Streets Street: Furnishi:  
+   working hours: 24/7;
+   Phone:
+   032 2 951138,
+   032 2 107172;
+
+## Онлайн
+
+pharmaco – ориентировочное время доставки 4-6 недель.
+
 # Где заказать в Грузию?
 
 Проверенные места:
